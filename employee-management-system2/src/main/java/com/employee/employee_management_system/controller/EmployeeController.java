@@ -1,6 +1,5 @@
 package com.employee.employee_management_system.controller;
 
-import com.employee.employee_management_system.exception.EmployeeNotFoundException;
 import com.employee.employee_management_system.model.Employee;
 import com.employee.employee_management_system.service.EmployeeService;
 
